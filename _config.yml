@@ -1,0 +1,9 @@
+# Site settings
+title: Natue Job Board
+email: jobs@natue.com.br
+baseurl: ""
+url: "http://jobs.natuelabs.io"
+github_username: natuelabs
+
+# Build settings
+markdown: kramdown

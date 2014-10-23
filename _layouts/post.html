@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <h2 class="up-for-it">Think you are up for it?</h2>
+  <h3 class="apply">Apply bellow:</h3>
+
+  <form action="{{ page.formkeep_action }}" method="POST">
+    <input type="submit" value="Apply">
+  </form>
+</div>
