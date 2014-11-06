@@ -15,6 +15,19 @@ layout: default
   <h3 class="apply">Apply bellow:</h3>
 
   <form action="{{ page.formkeep_action }}" method="POST">
+    <input type="hidden" name="utf8" value="✓">
+    <label for="name">Name:</label>
+    <input id="name" type="text" name="name" placeholder="Your Name">
+    <label for="email">Email:</label>
+    <input id="email" type="email" name="email" placeholder="Your Email">
+    <label for="location">Location:</label>
+    <input id="location" type="location" name="location" placeholder="Your current location">
+    <label for="url">Website:</label>
+    <input id="url" type="url" name="url" placeholder="Your Website">
+    <label for="github">Github:</label>
+    <input id="github" type="github" name="github" placeholder="Your Github username">
+    <label for="linkedin">Linkedin/Xing</label>
+    <input id="linkedin" type="linkedin" name="linkedin" placeholder="Your Likedin/Xing link">
     <input type="submit" value="Apply">
   </form>
 </div>
