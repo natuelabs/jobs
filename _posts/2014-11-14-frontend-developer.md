@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frontend Developer"
-date:   2014-10-23 11:33:45
+date:   2014-11-14 11:33:45
 categories: jobs
 formkeep_action: "https://formkeep.com/f/bb36ccaa0715"
 ---
