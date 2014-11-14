@@ -4,6 +4,18 @@ title:  "Frontend Developer"
 date:   2014-11-14 11:33:45
 categories: jobs
 formkeep_action: "https://formkeep.com/f/bb36ccaa0715"
+questions:
+- "If you have 5 different stylesheets, how would you best integrate them into the site?"
+- "How do you structure your css, so that it stays maintainable?"
+- "Can you describe the difference between progressive enhancement and graceful degradation?"
+- "What tools do you use to test your code's performance?"
+- "What are data- attributes good for?"
+- "Can you explain the difference between GET and POST?"
+- "Difference between: function Person(){}, var person = Person(), and var person = new Person()?"
+- "Difference between document load event and document ready event?"
+- "What is the difference between == and ===?"
+- "Would you implement a build tool in your process? Why?"
+- "What's your approach to deal with the topic of responsive images?"
 ---
 
 **Start:** Now

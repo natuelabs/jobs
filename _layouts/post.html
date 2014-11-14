@@ -21,13 +21,17 @@ layout: default
     <label for="email">Email:</label>
     <input id="email" type="email" name="email" placeholder="Your Email">
     <label for="location">Location:</label>
-    <input id="location" type="location" name="location" placeholder="Your current location">
+    <input id="location" type="text" name="location" placeholder="Your current location">
     <label for="url">Website:</label>
     <input id="url" type="url" name="url" placeholder="Your Website">
     <label for="github">Github:</label>
-    <input id="github" type="github" name="github" placeholder="Your Github username">
+    <input id="github" type="text" name="github" placeholder="Your Github username">
     <label for="linkedin">Linkedin/Xing</label>
-    <input id="linkedin" type="linkedin" name="linkedin" placeholder="Your Likedin/Xing link">
+    <input id="linkedin" type="text" name="linkedin" placeholder="Your Likedin/Xing link">
+    {% for question in page.questions %}
+      <label for="question-{{ forloop.index }}">{{ question }}</label>
+      <input id="question-{{ forloop.index }}" type="text" name="{{ question }}">
+    {% endfor %}
     <input type="submit" value="Apply">
   </form>
 </div>
