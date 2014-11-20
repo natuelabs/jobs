@@ -1,9 +1,21 @@
 ---
 layout: post
 title:  "Backend Developer"
-date:   2014-10-23 11:33:46
+date:   2014-11-20 11:33:46
 categories: jobs
 formkeep_action: "https://formkeep.com/f/5bd42c9962c0"
+questions:
+- "Can you explain the difference between GET and POST?"
+- "What is the difference between: class, object and trait?"
+- "What is the difference between: cache, cookie, session?"
+- "When to use if / else, and when to use try / catch?"
+- "How would you debug a PHP application?"
+- "What is your experience with testing? How do you do it?"
+- "What does low coupling means? And high cohesion?"
+- "What does encapsulation mean?"
+- "What is your ideal setup for a development machine? OS, Software, Tools and Services."
+- "What would be your perfect techstack for an ecommerce shop? Assume 5K concurrent users."
+- "How do you keep yourself up to date? Courses, books, resources, etc."
 ---
 
 **Start:** Now
