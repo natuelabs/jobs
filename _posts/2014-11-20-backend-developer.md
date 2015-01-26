@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Backend Developer"
-date:   2014-11-20 11:33:46
+title:  "PHP Backend Developer (Berlin)"
+date:   2015-1-26 11:33:46
 categories: jobs
 formkeep_action: "https://formkeep.com/f/5bd42c9962c0"
 questions:
@@ -22,12 +22,16 @@ questions:
 **Place:** Berlin
 **Hours:** Full-time
 
+#### Join our team!
+Are you enthusiastic about sophisticated PHP-based projects? Are you passionate about realizing scalable solutions in cooperation with the architect- and operations-team? Do you believe strategic thinking and creativity are not mutually exclusive? We are seeking a PHP Developer to come and join us!
+Our IT-team, based in the heart of Berlin, powers Brazil’s leading provider of intelligent nutrition. Through our e-commerce platform thousands of people improve their nutrition, eat organic, get fit and care for their bodies naturally–we help people reach their goals to live healthier and more sustainably.
+
 #### Your tasks:
 
 - Further development and maintenance of sophisticated PHP bases projects
 - Agile development of complex high-traffic-web application using PHP5
-- Optimization and standardization of our system’s architecture 
-- Realization of high-quality, scalable solutions in cooperation with the architect- and operations-team
+- Optimization and standardization of our system’s architecture
+- Implementation of a modern and result oriented project-management
 
 #### What we expect:
 
@@ -45,5 +49,5 @@ questions:
 - A unique job in an innovation-friendly company
 - Extremely varied tasks with responsibility and lots of opportunities
 - A motivating atmosphere in a dedicated team with a flat hierarchy
-- Flexible hours, great team events and creative breaks (e.g. table football)
-- An office in the heart of Berlin which offers everything you need – and even more!
+- Flexible hours, great team events and creative breaks (e.g. nerf-gun fights & table football)
+- An office in the heart of Berlin which offers everything you need – complimentary drinks, snacks, a wonderful team, and then some more!
