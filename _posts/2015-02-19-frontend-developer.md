@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Frontend Developer"
-date:   2014-11-14 11:33:45
+date:   2015-02-19 11:33:45
 categories: jobs
-formkeep_action: "https://formkeep.com/f/bb36ccaa0715"
+formkeep_action: "https://formkeep.com/f/960ad15d1d97"
 questions:
 - "If you have 5 different stylesheets, how would you best integrate them into the site?"
 - "How do you structure your css, so that it stays maintainable?"
@@ -19,7 +19,7 @@ questions:
 ---
 
 **Start:** Now
-**Place:** Berlin
+**Place:** Berlin or S&atilde;o Paulo
 **Hours:** Full-time
 
 #### Your tasks:
