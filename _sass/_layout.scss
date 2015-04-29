@@ -207,6 +207,15 @@
     color : #4e988b;
 }
 
+#thank-you {
+  display: none;
+  text-align: center;
+  margin-bottom: 10px;
+
+  &:target {
+    display: inherit;
+  }
+}
 
 
 /**
