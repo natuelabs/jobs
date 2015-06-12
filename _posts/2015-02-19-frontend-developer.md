@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Frontend Developer"
-date:   2015-02-19 11:33:45
+date:   2015-06-10 11:33:45
 categories: jobs
 formkeep_action: "https://formkeep.com/f/960ad15d1d97"
 questions:
@@ -19,7 +19,7 @@ questions:
 ---
 
 **Start:** Now
-**Place:** Berlin or S&atilde;o Paulo
+**Place:** S&atilde;o Paulo
 **Hours:** Full-time
 
 #### Your tasks:
@@ -45,14 +45,9 @@ etc.)
 - You have profound knowledge on web standards and client-specific entities.
 - At best you also have gatheres first hand knowledge in ecommerce (through
   e.g. Magento, Oxid eSales, Zen-Cart, Intershop, Hybris, etc.)
-- You speak English fluently.
 
 ### What we offer:
 
 - A unique job in an innovative company.
 - Extremely varied tasks with lots of responsibility and many oportunities.
 - A motivating atmosphere in a dedicated team with a flat company hierarchy.
-- Flexible hours, great team events and fun break times (e.g. table football).
-- An office in the heart of Berlin with everything you need - and even more!
-
-
