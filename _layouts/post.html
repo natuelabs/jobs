@@ -11,10 +11,10 @@ layout: default
     {{ content }}
   </article>
 
-  <h2 class="up-for-it">Think you are up for it?</h2>
-  <h3 class="apply">Apply below:</h3>
+  {% if page.provider == 'formkeep' %}
 
-  <form action="{{ page.formkeep_action }}" method="POST">
+    <h3 class="apply">Apply bellow:</h3>
+     <form action="{{ page.action }}" method="POST">
     <input type="hidden" name="utf8" value="✓">
     <label for="name">Name:</label>
     <input id="name" type="text" name="name" placeholder="Your Name">
@@ -34,4 +34,14 @@ layout: default
     {% endfor %}
     <input type="submit" value="Apply">
   </form>
+  {% else %} 
+    <!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="{{ page.action }}" data-text="Natuelabs" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+    <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;">Powered by <a href="http://www.typeform.com/?utm_campaign=typeform_BXBnMg&amp;utm_source=website&amp;utm_medium=typeform&amp;utm_content=typeform-embedded&amp;utm_term=English" style="color: #999" target="_blank">NatueLabs</a></div>
+  {% endif %}
+
+
+
+ 
 </div>
