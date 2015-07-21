@@ -11,7 +11,7 @@ provider: typeform
 **Horário:** Full-time
 
 #### Junte-se ao nosso time
-Você curte projetos PHP sofisticados Deseja desenvolver soluções complexas e escalaveis ?
+Você curte projetos PHP sofisticados? Deseja desenvolver soluções complexas e escalaveis ?
 Nossa equipe de TI está por trás do maior e-commerce de nutrição inteligente da América Latina.
 Através de nosso site, ajudamos milhares de pessoas a melhorarem sua alimentação, sua saúde e forma física, naturalmente.
 
