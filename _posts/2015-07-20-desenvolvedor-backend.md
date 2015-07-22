@@ -59,5 +59,5 @@ Através de nosso site, ajudamos milhares de pessoas a melhorarem sua alimentaç
 - Meritocracia, aqui quem puxa o saco não ganha cargo.
 - Ambiente motivacional em um time dedicado com hierarquia flat.
 - Contrato CLT Full com salário compatível com o mercado.
-- Benefícios como Plano de Saúde, Vale Refeição, Vale Transporte e Estacionamento.
+- Benefícios como Plano de Saúde, Vale Refeição e Vale Transporte ou Estacionamento.
 - Bônus Trimestral por Resultado/Performance.
