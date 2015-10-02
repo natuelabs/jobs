@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Desenvolvedor Backend"
-date:   2015-07-20 11:33:46
+date:   2015-10-01 11:33:46
 categories: jobs
 action: "https://natuelabs.typeform.com/to/BXBnMg"
 provider: typeform
@@ -18,7 +18,7 @@ Através de nosso site, ajudamos milhares de pessoas a melhorarem sua alimentaç
 #### Suas tarefas:
 
 - Desenvolvimento de melhorias e manutenção de projetos PHP sofisticados.
-- Desenvolvimentoágill de aplicações complexas e escaláveis usando PHP ou outras linguagens.
+- Desenvolvimento ágill de aplicações complexas e escaláveis usando PHP ou outras linguagens.
 - Otimização e padronização da arquitetura de nossos sistemas.
 - Implementação de uma moderna arquitetura de gerenciamento de projetos orientado a resultados.
 
