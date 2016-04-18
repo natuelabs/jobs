@@ -4,7 +4,7 @@ Natue's IT jobs page
 ====
 
 The jobs page is a simple [Jekyll](http://jekyllrb.com/) blog, the form data is
-posted into [FormKeep](https://formkeep.com) and the blog uses
+posted into [Typeform](https://typeform.com) and the blog uses
 [CodeShip](https://www.codeship.io) to continuous deploy the generated static
 website into [Amazon's S3](http://aws.amazon.com/s3/).
 
